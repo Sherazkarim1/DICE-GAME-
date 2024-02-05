@@ -10,4 +10,4 @@
 //                       else  document.write('<img src="dice6.png">');
     
 //     }
-alert ("working");
+alert ("working or not");
